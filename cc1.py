@@ -1,4 +1,4 @@
-# your code goes herejdklkme
+# your code goes herejdklkme jjfkwldj;.w
 s,n=map(str,input().split())
 for i in range(0,int(n)):
 	print(s)
