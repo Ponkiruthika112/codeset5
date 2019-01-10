@@ -1,4 +1,4 @@
-#this is my new c9
+#this is my new c10
 n=int(input())
 while n>1:
     n=n/2
