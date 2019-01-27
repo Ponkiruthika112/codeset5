@@ -1,4 +1,4 @@
-#sum of all nos
+#sum of all nos in list
 n=int(input())
 l=[]
 s=0
